@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh Roushan
 - 👀 I’m interested in Machine Learning, DSA , Problem Solving , Robotics .
-- 🌱 I’m currently learning Android App Development.
+- 🌱 I’m currently working on Full Stack Development Projects.
 - 💞️ I’m looking to collaborate on Machine Learning , DSA , Problem Solving Related Stuffs.
 - 📫 How to reach me : Email - rakeshroushan2341@gmail.com , Linkedin  [connect-roushan](https://www.linkedin.com/in/connect-roushan/)
 
