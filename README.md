@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Roushan
-- 👀 I’m interested in Machine Learning, DSA , Problem Solving , Robotics .
-- 🌱 I’m currently working on Full Stack Development Projects.
-- 💞️ I’m looking to collaborate on WEBD , DSA , Problem Solving Related Stuffs.
+- 👀 I’m interested in Full Stack development, Problem Solving ,ML, Robotics.
+- 🌱 I’m learning MERN stack development.
+- 💞️ I’m looking to collaborate on WEBD , Machine Learning projects.
 - 📫 How to reach me : Email - rakeshroushan2341@gmail.com , Linkedin  [connect-roushan](https://www.linkedin.com/in/connect-roushan/)
 
 
