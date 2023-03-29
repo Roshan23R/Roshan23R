@@ -30,14 +30,12 @@ different projects along with the people around me.
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
 </p> -->
-
-<!-- 
+ 
 ## 🔗 Know more about me 
 
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)([https://drive.google.com/file/d/1oXC8MvhDmt0Vpo7L62wOrUtv5ZW8Twy4/view?usp=sharing])
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rakeshroushan2341@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Rakesh%20Roushan-black?style=for-the-badge&logo=Linkedin)([https://www.linkedin.com/in/connect-roushan/])
-<!-- [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81) -->
 
 
 ## 🔗 Github Analysis 
