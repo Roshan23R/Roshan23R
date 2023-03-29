@@ -33,14 +33,12 @@ different projects along with the people around me.
 
 <!-- 
 ## 🔗 Know more about me 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://flowcv.me/NeerajChoubisa) -->
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://nikku.hackerresume.io/Sl0fLhrYtoiJX8aHXfB9)
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:neerajchoubisa876@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Neeraj%20Choubisa-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)
-[![Twitter](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=twitter)](https://twitter.com/itsNikku876)
-[![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81)
 
- -->
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)([https://drive.google.com/file/d/1oXC8MvhDmt0Vpo7L62wOrUtv5ZW8Twy4/view?usp=sharing])
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rakeshroushan2341@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Rakesh%20Roushan-black?style=for-the-badge&logo=Linkedin)([https://www.linkedin.com/in/connect-roushan/])
+<!-- [![HackerRank](https://img.shields.io/badge/-@neerajchoubisa-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/neerajchoubisa81) -->
+
 
 ## 🔗 Github Analysis 
 <p>
@@ -51,6 +49,7 @@ different projects along with the people around me.
 </p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roshan23R&" alt="Rakesh" /></p>
+
 ## 🛠 Languages and Tools:
 
 #### Languages:
@@ -76,10 +75,10 @@ different projects along with the people around me.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![Oracle Database](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white) -->
 
-#### Hosting:
+<!-- #### Hosting:
 
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase) -->
 
 
 #### Others:
