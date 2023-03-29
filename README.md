@@ -16,10 +16,10 @@ different projects along with the people around me.
 
 <!-- [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku) -->
 
-<!-- ## 🔗 Github Trophies
+## 🔗 Github Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kali-Decoder&theme=darkhub">
-</p> -->
+<img src="https://github-profile-trophy.vercel.app/?username=Roshan23R&theme=darkhub">
+</p>
  
 ## 🔗 Know more about me 
 
