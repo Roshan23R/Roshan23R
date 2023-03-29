@@ -1,27 +1,17 @@
-- Hi, I’m Rakesh Roushan , ECE student from 3rd year of IIIT Dharwad.
-- I’m interested in MERN Stack development, Problem Solving ,Machine Learning , Deep Learning , NLP.
-- I’m looking to collaborate on WEB Devlopment ,Machine Learning projects.
-- How to reach me : Email - rakeshroushan2341@gmail.com , Linkedin  [connect-roushan](https://www.linkedin.com/in/connect-roushan/)
-
-
-<!---
-Roshan23R/Roshan23R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 <!-- hello -->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Rakesh+Roushan+;  Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=This+%2C+Side+Rakesh+Roushan+;  MERN+Stack+Developer" alt="Typing SVG" /></a>
   
 </p>
 I'm currently pursuing B.Tech in ECE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. 
 I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
-- I’m currently working in India Speaks Research lab as Full Stack Developer .
--  Would love collaborating on other open-source projects :)
+- I’m currently working in India Speaks Research lab as Full Stack Developer.
+- I’m interested in MERN Stack development, Problem Solving ,Machine Learning , Deep Learning , NLP.
+- I’m looking to collaborate on WEB Development ,Machine Learning projects.
 
 
 <!-- [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku) -->
