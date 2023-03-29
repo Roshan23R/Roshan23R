@@ -16,16 +16,17 @@ different projects along with the people around me.
 
 <!-- [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku) -->
 
-## 🔗 Github Trophies
+<!-- ## 🔗 Github Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Roshan23R&theme=darkhub">
-</p>
+</p> -->
  
 ## 🔗 Know more about me 
 
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oXC8MvhDmt0Vpo7L62wOrUtv5ZW8Twy4/view?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rakeshroushan2341@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Rakesh%20Roushan-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/connect-roushan/)
+[![LeetCode](https://img.shields.io/badge/-rakesh_roushan-black?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/rakesh_roushan/)
 
 
 ## 🔗 Github Analysis 
