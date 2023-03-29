@@ -66,7 +66,7 @@ different projects along with the people around me.
 
 #### Machine Learning:
 
-![Scikit-Learn](https://img.shields.io/badge/scikit-learn%20-%23430098.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit%20learn%20-%23430098.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow%20-%23039BE5.svg?&style=for-the-badge&logo=tensorflow)
 
 
