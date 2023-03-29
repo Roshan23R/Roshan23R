@@ -61,7 +61,7 @@ different projects along with the people around me.
 #### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/dynamodb-%2300f.svg?&style=for-the-badge&logo=dynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/dynamodb-%2300f.svg?&style=for-the-badge&logo=dynamoDB&logoColor=white)
 <!-- ![Oracle Database](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white) -->
 
 #### Machine Learning:
@@ -74,7 +74,7 @@ different projects along with the people around me.
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code%20-%230070D1.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notbook-0078D6?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-0078D6?style=for-the-badge&logo=jupyter-notebook&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!-- ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-0078D6?style=for-the-badge&logo=Ethereum&logoColor=white)
