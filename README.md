@@ -23,14 +23,14 @@ different projects along with the people around me.
  
 ## 🔗 Know more about me 
 
-[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)]([https://drive.google.com/file/d/1oXC8MvhDmt0Vpo7L62wOrUtv5ZW8Twy4/view?usp=sharing])
+[![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oXC8MvhDmt0Vpo7L62wOrUtv5ZW8Twy4/view?usp=sharing)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rakeshroushan2341@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Rakesh%20Roushan-black?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/connect-roushan/])
+[![Linkedin](https://img.shields.io/badge/-Rakesh%20Roushan-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/connect-roushan/)
 
 
 ## 🔗 Github Analysis 
 <p>
-<a href="https://github.com/Kali-Decoder">
+<a href="https://github.com/Roshan23R">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Roshan23R&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Roshan23R&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
